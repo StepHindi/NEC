@@ -1,0 +1,14 @@
+"type": "PowerNode",
+  "name": "Small electrium node",
+  "category": "power",
+  "description": "Advanced version of power node with more connections",
+  "health": 40,
+  "size": 1,
+  "requirements": [
+	{ "item": "lead", "amount": 5},
+	{ "item": "silicon", "amount": 3},
+	{ "item": "electrium", "amount": 1},
+  ],
+  "research": "electrium smelter",
+  "maxNodes": 15,
+  "laserRange": 6
