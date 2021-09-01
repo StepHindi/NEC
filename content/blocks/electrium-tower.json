@@ -1,0 +1,15 @@
+"type": "PowerNode",
+  "name": "Electrium tower",
+  "category": "power",
+  "description": "Advanced version of surge tower with more connections and bigger radius",
+  "health": 160,
+  "size": 2,
+  "requirements": [
+	{ "item": "lead", "amount": 35},
+	{ "item": "silicon", "amount": 22},
+	{ "item": "electrium", "amount": 16},
+	{ "item": "titanium", "amount": 20}
+  ],
+  "research": "large-electrium-node",
+  "maxNodes": 4,
+  "laserRange": 60
