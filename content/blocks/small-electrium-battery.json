@@ -1,0 +1,17 @@
+{
+  "type": "Battery",
+  "name": "Small electrium battery",
+  "description": "Small, but good",
+  "requirements": [
+    { "item": "silicon", "amount": 20},
+	{ "item": "lead", "amount": 50},
+	{ "item": "electrium", "amount": 10},
+  ],
+ "research": "electrium-smelter",
+ "health": 100,
+ "size": 1,
+ "category": "power",
+ "consumes": {
+	 "powerBuffered": 10000
+ }
+  }
